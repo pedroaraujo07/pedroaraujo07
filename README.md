@@ -14,7 +14,7 @@ Aqui estão alguns dos projetos que estou trabalhando ou já terminei:
 
 - [**Jogo da velha em Portugol**](https://github.com/pedroaraujo07/portugol_jogo_da_velha): Projeto em que fiz um jogo da velha funcional em Portugol.
 
-- [**Reordenador de numeros**](https://github.com/pedroaraujo07/Learning-Html-Css): Projeto em que estou organizando meus códigos de exercícios de html e css.
+- [**Learning HTML CSS**](https://github.com/pedroaraujo07/Learning-Html-Css): Projeto em que estou organizando meus códigos de exercícios de html e css.
 
 ## Contato
 
